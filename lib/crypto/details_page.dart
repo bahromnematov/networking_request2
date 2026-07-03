@@ -10,6 +10,10 @@ class DetailsPage extends StatefulWidget {
   String price;
   String id;
 
+
+
+
+
   DetailsPage({
     super.key,
     required this.id,
